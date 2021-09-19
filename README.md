@@ -2,7 +2,7 @@
 
 Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.
 
-Steps to send a Notification through Lambda When a Message is Sent to SQS-
+Steps to demonstrate SNS-
 
 ```
 Part 1
